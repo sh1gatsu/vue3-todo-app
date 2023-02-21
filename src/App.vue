@@ -43,7 +43,7 @@
             />
           </label>
 
-          <span class="todo__title">Not Completed Todo</span>
+          <span class="todo__title">Not Completed Todo Deploy</span>
           <button class="todo__remove">x</button>
 
           <div class="modal overlay">
